@@ -48,7 +48,7 @@ Installation Steps
 
 Usage
 -----
-- With Docker installed on your EC2 instance, you can now use Docker to run and manage containers. For example, you can pull and run the official Nextcloud Docker image, host web applications, databases, and more.
+- With Docker installed on your EC2 instance, you can now use Docker to run and manage containers. For example, you can pull and run the official OS Docker image, host web applications, databases, and more.
 - Before using Docker, ensure you have the appropriate Docker image you want to run and the necessary configurations for your specific use case.
 
 Additional Notes
